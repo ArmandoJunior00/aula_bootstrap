@@ -4,6 +4,9 @@
 .nav-link{
     color: #F39095;
 }
-.container{
-    padding: 90px;
+.quem-somos{
+    background-color: cyan;
+}
+.margin{
+    padding-top: 30px;
 }

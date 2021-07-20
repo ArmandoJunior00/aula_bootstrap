@@ -1,3 +1,6 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
 .navbar{
     background-color: #A56FEB;
 }
@@ -5,8 +8,10 @@
     color: #F39095;
 }
 .quem-somos{
-    background-color: cyan;
+    background-color:#A19568;
+    color: #ffff;
 }
 .margin{
-    padding-top: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }

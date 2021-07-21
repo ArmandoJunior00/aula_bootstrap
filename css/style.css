@@ -2,14 +2,14 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 .navbar{
-    background-color: #A56FEB; 
+    background-color: black; 
 }
 .nav-link{
-    color: #F39095;
+    color: #Ffff;
 }
 .quem-somos{
     /* background-color:#A19568; */
-    color: #F17E84;
+    /* color: #F17E84; */
 }
 .margin{
     padding-top: 50px;
@@ -17,4 +17,9 @@ body{
 }
 .parceiros{
     background-color:#ffff
+}
+
+.bg-footer{
+    background-color: black;
+    color: #ffff;
 }
